@@ -3,7 +3,7 @@ public class FibonaciSeries
 public static void main(String args[])
 {
 int n = 10, num1 = 0, num2 = 1;
-Sysstem.out.print("Fibonacci Numbers till "+n+"terms :");
+System.out.print("Fibonacci Numbers till "+n+"terms :");
 for(i=o;i<=10;i++)
 System.out.println(num1 +" ");
 int num3 = num1+num2;
