@@ -1,27 +1,26 @@
-/*class Main
+class Main
 {
 public static void main(String args[])
 {
 System.out.println("Hello World");
 }
-}*/
-/*class Main
+}
+class Main
 {
 public static void main(String args[])
 {
 int number=2;
 System.out.println("the square is "+(number*number));
 }
-}*/
-/*class Main
+}
+class Main
 {
 public static void main(String args[])
 {
 int number=2;
 System.out.println("the cube is "+(number*number*number));
 }
-}*/
-/*
+}
 class Main
 {
 public static void main(String args[])
@@ -30,9 +29,8 @@ int number1=72;
 int number2=63;
 System.out.println("the sum is "+(number1+number2));
 }
-}*/
-
-/*import java.util.Scanner;
+}
+import java.util.Scanner;
 class Main
 {
     public static void main(String args[])
@@ -41,9 +39,8 @@ class Main
         int number=Object.nextInt();
         System.out.println("the cube is "+(number*number*number));
     }
-}*/
-
-/*import java.util.Scanner;
+}
+import java.util.Scanner;
 class Main
 {
     public static void main(String args[])
@@ -52,8 +49,7 @@ class Main
         int number=Object.nextInt();
         System.out.println("the square is "+(number*number));
     }
-}*/
-
+}
 import java.util.Scanner;
 class Main
 {
